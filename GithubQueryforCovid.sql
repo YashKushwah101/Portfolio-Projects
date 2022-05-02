@@ -13,7 +13,7 @@ where continent is not null
 order by 1,2
 
 -- Total Cases vs Total Death Scenario/Stats
--- Likelihood of deying by covid in India 
+-- Likelihood of dying by covid in India 
 Select location, date, total_cases, total_deaths, population, (total_deaths/total_cases)*100 as DeathPercentage
 from [Portfolio Project 1].dbo.Covid
 where location like 'India'

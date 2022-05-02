@@ -100,8 +100,6 @@ order by 2,3
 
 -- That took some time!
 
---To be honest idk what I am doing anymore, but data is fun, or am I the only one here? I should make a journal here and keep my darkest thoughts here , who's gonna read it anyway ?
-
 --back to work , working on temp tables 
 
 
